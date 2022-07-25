@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-07T10:52:43 AEST" name="Default suite" finished-at="2022-07-07T10:52:56 AEST" duration-ms="13484">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T10:52:43 AEST" name="Default test" finished-at="2022-07-07T10:52:56 AEST" duration-ms="13484">
+      <class name="com.testleaftestcases.TC002Login$TC001CreateLead">
+        <test-method is-config="true" signature="preCondi()[pri:0, instance:com.testleaftestcases.TC002Login$TC001CreateLead@74e52303]" started-at="2022-07-07T10:52:43 AEST" name="preCondi" finished-at="2022-07-07T10:52:46 AEST" duration-ms="3064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondi -->
+        <test-method signature="runLogin()[pri:0, instance:com.testleaftestcases.TC002Login$TC001CreateLead@74e52303]" started-at="2022-07-07T10:52:46 AEST" name="runLogin" finished-at="2022-07-07T10:52:52 AEST" duration-ms="6262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runLogin -->
+        <test-method is-config="true" signature="posCondi()[pri:0, instance:com.testleaftestcases.TC002Login$TC001CreateLead@74e52303]" started-at="2022-07-07T10:52:52 AEST" name="posCondi" finished-at="2022-07-07T10:52:56 AEST" duration-ms="4131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posCondi -->
+      </class> <!-- com.testleaftestcases.TC002Login$TC001CreateLead -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
